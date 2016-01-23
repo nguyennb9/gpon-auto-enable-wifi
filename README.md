@@ -7,6 +7,7 @@ For someone have GPON G-93RG1 wifi router. One who want to turn on/off wifi ever
 Just get this python file, open terminal and enter
 
 python gpon-wifi.py on
+
 python gpon-wifi.py off
 
 Enjoy your lazyness XD
